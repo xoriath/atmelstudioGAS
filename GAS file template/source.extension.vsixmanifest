@@ -10,6 +10,7 @@
     <License>license.txt</License>
     <GettingStartedGuide>http://sourceware.org/binutils/docs/as/</GettingStartedGuide>
     <Icon>Resources/ram.png</Icon>
+    <PreviewImage>Resources/img.png</PreviewImage>
     <InstalledByMsi>false</InstalledByMsi>
     <SupportedProducts>
       <IsolatedShell Version="6.0">AtmelStudio</IsolatedShell>
