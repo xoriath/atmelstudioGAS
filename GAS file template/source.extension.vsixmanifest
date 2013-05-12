@@ -6,9 +6,10 @@
     <Version>1.0</Version>
     <Description xml:space="preserve">Provides a empty GAS (.S) file.</Description>
     <Locale>1033</Locale>
+    <MoreInfoUrl>https://github.com/xoriath/atmelstudioGAS</MoreInfoUrl>
+    <License>license.txt</License>
     <GettingStartedGuide>http://sourceware.org/binutils/docs/as/</GettingStartedGuide>
     <InstalledByMsi>false</InstalledByMsi>
-	<License>license.txt</License>
     <SupportedProducts>
       <IsolatedShell Version="6.0">AtmelStudio</IsolatedShell>
       <IsolatedShell Version="6.1">AtmelStudio</IsolatedShell>
