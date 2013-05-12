@@ -8,6 +8,7 @@
     <Locale>1033</Locale>
     <GettingStartedGuide>http://sourceware.org/binutils/docs/as/</GettingStartedGuide>
     <InstalledByMsi>false</InstalledByMsi>
+	<License>license.txt</License>
     <SupportedProducts>
       <IsolatedShell Version="6.0">AtmelStudio</IsolatedShell>
       <IsolatedShell Version="6.1">AtmelStudio</IsolatedShell>
