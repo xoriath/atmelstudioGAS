@@ -9,6 +9,7 @@
     <MoreInfoUrl>https://github.com/xoriath/atmelstudioGAS</MoreInfoUrl>
     <License>license.txt</License>
     <GettingStartedGuide>http://sourceware.org/binutils/docs/as/</GettingStartedGuide>
+    <Icon>ram.png</Icon>
     <InstalledByMsi>false</InstalledByMsi>
     <SupportedProducts>
       <IsolatedShell Version="6.0">AtmelStudio</IsolatedShell>
